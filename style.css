@@ -1,0 +1,81 @@
+ 
+ body{
+    background-color:  hsl(217, 54%, 11%);
+ }
+ 
+ 
+ .container{
+ 
+    
+
+
+}
+
+.row{
+  margin-top: 100px;
+    
+}
+.col{
+
+
+
+}
+
+.card{
+   background-color:  hsl(216, 50%, 16%);
+
+}
+
+.card-body{
+
+   color: white;
+}
+.card-text{
+   color: rgb(140, 148, 180);
+   font-size: 12px;
+}
+
+.car-img-top{
+
+   border-radius: 8px;
+}
+
+.span1{
+
+
+color: aqua;
+font-size: 12px;
+}
+
+
+.span2{
+   color: rgb(140, 148, 180);
+   font-size: 12px;
+   float: right;
+}
+
+hr{
+
+   opacity: 0.1;
+}
+.name{
+   display: inline-block;
+}
+/* .logo{
+
+   display: inline-block;
+} */
+
+.logo img{
+
+   height: 25px;
+   width: 25px;
+}
+
+.name{
+   color: rgb(140, 148, 180);
+   font-size: 12px;
+}  .span3{
+   color: white;
+}
+
