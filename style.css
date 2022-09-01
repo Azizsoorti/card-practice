@@ -4,22 +4,12 @@
  }
  
  
- .container{
- 
-    
-
-
-}
 
 .row{
   margin-top: 100px;
     
 }
-.col{
 
-
-
-}
 
 .card{
    background-color:  hsl(216, 50%, 16%);
@@ -60,11 +50,10 @@ hr{
 }
 .name{
    display: inline-block;
+   margin-left: 8px;
+   color: rgb(140, 148, 180);
+   font-size: 12px;
 }
-/* .logo{
-
-   display: inline-block;
-} */
 
 .logo img{
 
@@ -72,10 +61,7 @@ hr{
    width: 25px;
 }
 
-.name{
-   color: rgb(140, 148, 180);
-   font-size: 12px;
-}  .span3{
+ .span3{
    color: white;
 }
 
